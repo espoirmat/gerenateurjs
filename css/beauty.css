@@ -61,3 +61,21 @@ footer {
 button#generer, button#twitter {
 	outline: none;
 }
+
+
+@media all and (max-width: 400px)
+{
+    .centre
+    {
+        width: 98%;
+        margin: auto;
+    }
+
+    .container {
+        margin-top: 5px;
+        margin-left: 5%;
+        font-family: 'Contrail One', cursive;
+    }
+}
+
+
